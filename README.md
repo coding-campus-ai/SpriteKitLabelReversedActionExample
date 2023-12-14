@@ -1,4 +1,4 @@
-# [SpriteKit #3] SpriteKit을 이용해서 Hello Coding Campus 문자열 애니메이션 
+# [SpriteKit #3] SpriteKit을 이용해서 문자열 애니메이션 
 
 SpriteKit을 이용해서 화면에 Hello Coding Campus 라는 문자열을 탭 하면 레이블을 이동 하고 다시 돌아가도록 만들어 보겠습니다.
 
